@@ -1,0 +1,19 @@
+{
+  "name": "big-o-in-pratice",
+  "version": "1.0.0",
+  "description": "Study project to implements comum algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregoriSimei/big-o-in-pratice.git"
+  },
+  "author": "GregoriSimei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GregoriSimei/big-o-in-pratice/issues"
+  },
+  "homepage": "https://github.com/GregoriSimei/big-o-in-pratice#readme"
+}

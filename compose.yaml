@@ -1,0 +1,5 @@
+services:
+  env:
+    build: .
+    volumes:
+      - .:/home/node/app
