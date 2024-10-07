@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Study project to implements comum algorithms",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "o1": "node ./src/O(1)/index.ts"
   },
   "repository": {
     "type": "git",
